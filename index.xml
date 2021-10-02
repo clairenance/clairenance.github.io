@@ -296,7 +296,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-851492736&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-257691834&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +306,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-851492736&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-257691834&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -773,6 +773,62 @@ Three
       <link>/publication/2016js/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       <guid>/publication/2016js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intonational variation and change in Scottish Gaelic</title>
+      <link>/publication/2015l/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intonational variation in Liverpool English</title>
+      <link>/publication/2015icphs/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015icphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Scottish Gaelic speakers in Glasgow, A phonetic study of language revitalisation</title>
+      <link>/publication/2015lsoc/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015lsoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonetic variation in Scottish Gaelic laterals</title>
+      <link>/publication/2014jp/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014jp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonetic variation, sound change, and identity in Scottish Gaelic</title>
+      <link>/publication/2013thesis/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-aspiration and post-aspiration in Scottish Gaelic stop consonants</title>
+      <link>/publication/2013jipa/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013jipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High back vowels in Scottish Gaelic</title>
+      <link>/publication/2011icphs/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011icphs/</guid>
       <description></description>
     </item>
     

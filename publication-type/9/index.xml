@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 | Academic</title>
+    <link>/publication-type/9/</link>
+      <atom:link href="/publication-type/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>9</title>
+      <link>/publication-type/9/</link>
+    </image>
+    
+    <item>
+      <title>Intonational variation in Liverpool English</title>
+      <link>/publication/2015icphs/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015icphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High back vowels in Scottish Gaelic</title>
+      <link>/publication/2011icphs/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011icphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
