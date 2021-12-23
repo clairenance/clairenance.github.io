@@ -128,6 +128,14 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Phonetic typology and articulatory constraints, The realisation of secondary articulations in Scottish Gaelic rhotics</title>
+      <link>/publication/2022l/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Place identity and authenticity in minority language revitalisation, Scottish Gaelic in Glasgow</title>
       <link>/publication/2021ijb/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
@@ -296,7 +304,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-817625493&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-721583694&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +314,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-817625493&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-721583694&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -711,6 +719,24 @@ Three
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019jasa/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
