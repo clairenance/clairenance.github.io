@@ -128,10 +128,26 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Acoustic and auditory characteristics of rhoticity in the North West of England</title>
+      <link>/publication/2023icphs/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023icphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sociolinguistic methodologies at a crossroads. Innovations from the postgraduate community</title>
       <link>/publication/2023mlo/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/2023mlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third language phonological acquisition. Understanding sound structure in a multilingual world</title>
+      <link>/publication/2023llc/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023llc/</guid>
       <description></description>
     </item>
     
@@ -320,7 +336,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-135286479&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-971842635&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -330,7 +346,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-135286479&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-971842635&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
