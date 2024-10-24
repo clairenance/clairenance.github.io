@@ -128,18 +128,18 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Acoustic and auditory characteristics of rhoticity in the North West of England</title>
-      <link>/publication/2023icphs/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023icphs/</guid>
+      <title>Producing a smaller sound system, Acoustics and articulation of the subset scenario in Gaelic-English bilinguals</title>
+      <link>/publication/2024blc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024blc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Producing a smaller sound system, Acoustics and articulation of the subset scenario in Gaelic-English bilinguals</title>
-      <link>/publication/2023blc/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023blc/</guid>
+      <title>Acoustic and auditory characteristics of rhoticity in the North West of England</title>
+      <link>/publication/2023icphs/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023icphs/</guid>
       <description></description>
     </item>
     
@@ -344,7 +344,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-391825764&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-537689421&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -354,7 +354,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-391825764&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-537689421&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
