@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Danielle Turton | Academic</title>
-    <link>/author/danielle-turton/</link>
-      <atom:link href="/author/danielle-turton/index.xml" rel="self" type="application/rss+xml" />
-    <description>Danielle Turton</description>
+    <title>Jessica McMonagle | Academic</title>
+    <link>/author/jessica-mcmonagle/</link>
+      <atom:link href="/author/jessica-mcmonagle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jessica McMonagle</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Danielle Turton</title>
-      <link>/author/danielle-turton/</link>
+      <title>Jessica McMonagle</title>
+      <link>/author/jessica-mcmonagle/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/2024lv/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/publication/2024lv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acoustic and auditory characteristics of rhoticity in the North West of England</title>
-      <link>/publication/2023icphs/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023icphs/</guid>
       <description></description>
     </item>
     
