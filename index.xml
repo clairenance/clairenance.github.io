@@ -144,6 +144,22 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Articulation at the end stage of sound change, Derhoticisation across east Lancashire</title>
+      <link>/publication/2026ell/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026ell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child acquisition of complex consonants, The role of oral motor control in developing acoustic targets</title>
+      <link>/publication/2026jasa/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026jasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The acquisition of Scottish Gaelic phonology</title>
       <link>/publication/2025ca/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
@@ -400,7 +416,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-582439761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-352618947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -410,7 +426,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-582439761&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-352618947&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
